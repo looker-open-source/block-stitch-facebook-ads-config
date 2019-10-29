@@ -1,4 +1,4 @@
-view: campaigns {
+view: campaigns_config {
   extends: [campaigns_core]
   extension: required
 

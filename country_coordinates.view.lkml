@@ -1,4 +1,4 @@
-view: country_coordinates {
+view: country_coordinates_config {
   extends: [country_coordinates_core]
   extension: required
 

@@ -1,4 +1,4 @@
-view: ad_insights_by_age_and_gender {
+view: ad_insights_by_age_and_gender_config {
   extends: [ad_insights_by_age_and_gender_core]
   extension: required
 

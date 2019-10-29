@@ -1,4 +1,4 @@
-view: ad_actions_by_country {
+view: ad_actions_by_country_config {
   extends: [ad_actions_by_country_core]
   extension: required
 

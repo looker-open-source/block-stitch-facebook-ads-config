@@ -1,4 +1,4 @@
-view: ad_actions_by_age_and_gender {
+view: ad_actions_by_age_and_gender_config {
   extends: [ad_actions_by_age_and_gender_core]
   extension: required
 

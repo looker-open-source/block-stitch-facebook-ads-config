@@ -1,4 +1,4 @@
-view: campaign_utm {
+view: campaign_utm_config {
   extends: [campaign_utm_core]
   extension: required
 

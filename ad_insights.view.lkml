@@ -1,4 +1,4 @@
-view: ads_insights_config {
+view: ad_insights_config {
   extends: [ad_insights_core]
   extension: required
 

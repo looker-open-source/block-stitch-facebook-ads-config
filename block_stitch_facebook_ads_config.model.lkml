@@ -1,5 +1,3 @@
-connection: "@{CONNECTION_NAME}"
-
 include: "*.view"
 
 explore: country_coordinates_config {
